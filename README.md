@@ -18,4 +18,6 @@ multiLayerNetwork.setListeners(NetListenerBuilder.Builder()
 ```
 
 ####App window:
-![NnDebug app window](https://raw.githubusercontent.com/shadoq/nndebug/branch/_doc/img/d1.png)
+![NnDebug app window](https://raw.githubusercontent.com/shadoq/nndebug/master/_doc/img/d1.PNG)
+
+
